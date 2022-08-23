@@ -20,5 +20,14 @@
   },
   "dependencies": {
     "server": "^1.0.37"
-  }
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Varakin18/FE36-Landing2-Varakin-Aleaksander.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Varakin18/FE36-Landing2-Varakin-Aleaksander/issues"
+  },
+  "homepage": "https://github.com/Varakin18/FE36-Landing2-Varakin-Aleaksander#readme"
 }
